@@ -1,5 +1,5 @@
 (function () {
-  var WA_NUMBER = '2348077044100';
+  var WA_NUMBER = '2348022249064';
 
   // Mobile menu
   var menuBtn = document.querySelector('.menu-btn');
